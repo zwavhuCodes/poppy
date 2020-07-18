@@ -37,7 +37,8 @@ html, body{
 }
 
 body.demos .section {
-    background: url(images/bg.png) repeat top center #f2f3f5;
+    background: url(images/circ.png) no-repeat top center #f2f3f5;
+
 }
 
 body.demos .section-title img {
@@ -86,7 +87,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: 120% !important;
-    color: #333333;
+    color: #dedede;
     margin: 0
 }
 
@@ -95,7 +96,7 @@ h1 {
 }
 
 h2 {
-    font-size: 22px
+    font-size: 24px
 }
 
 h3 {
@@ -492,12 +493,15 @@ xclip
 }
 
 .section.wb {
-    background-image: url('images/bkrnd.jpg');
-    background-repeat: no-repeat;
+    /*background-image: url('images/bkrnd.jpg');*/
+    /*background-repeat: no-repeat;*/
+    background-color: #2e2e2e;
 }
 
 .section.lb {
     background-color: #f2f3f5;
+    /*background: url(images/circ.jpg) repeat top center #f2f3f5;*/
+
 }
 
 .section.db {
@@ -1433,20 +1437,24 @@ hr.invis1 {
 .filter-button-group button.active{
 	background: #333333;
 	color: #fff;
-	box-shadow: 2px 20px 45px 5px rgba(0,0,0,.2);	
+	box-shadow: 2px 20px 45px 5px rgba(0,0,0,.2);
+}
+
+.filter-button-group :hover{
+	background: #b79d81;
 }
 
 .filter-button-group button{
-	color: #333;
+	color: #434343;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	font-weight: 600;
 	font-size: 14px;
 	cursor: pointer;
 	background: #fff;
-	padding: 12px 40px;
+	padding: 10px 30px;
 	border: none;
-	border-radius: 0px;
+	border-radius: 20px;
 }
 
 
@@ -2088,7 +2096,9 @@ select.mobile-device {
 }
 
 #contact {
-    background: url(images/bg.png) no-repeat center center #333333;
+    /*background: url(images/bg.png) no-repeat center center #333333;*/
+    background: url(images/circ.jpg) repeat top center #f2f3f5;
+
 }
 
 
