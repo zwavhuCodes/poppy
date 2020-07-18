@@ -3,7 +3,37 @@
   <component name="ChangeListManager">
     <list default="true" id="76385777-bf48-4afd-b5fb-b6895ff10708" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_9981.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/main.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/main2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/main3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/IMG_6350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/IMG_6352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/IMG_6354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/IMG_6863.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/about_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/abt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/banner-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/bannr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/blkdress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/blog-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/blog-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/blog-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/blu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/brent3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/brwnshoes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/gallery_img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/gallery_img-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/gallery_img-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/gallery_img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/gallery_img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/gallery_img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/jumpsuit1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/jumpsuit2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/suit2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/testi_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/testi_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/testi_03.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +45,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eeO5IQhjrU8sZmSFs0pocSlTVr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
@@ -59,11 +93,47 @@
       <option name="presentableId" value="Default" />
       <updated>1594678406707</updated>
       <workItem from="1594678408185" duration="3756000" />
-      <workItem from="1595082238108" duration="687000" />
+      <workItem from="1595082238108" duration="4105000" />
     </task>
+    <task id="LOCAL-00001" summary="few changes">
+      <created>1595084000365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595084000365</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed picture">
+      <created>1595084061076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595084061076</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed menu word">
+      <created>1595084124820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595084124820</updated>
+    </task>
+    <task id="LOCAL-00004" summary="few changes">
+      <created>1595085520202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595085520202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changed picture" />
+    <MESSAGE value="removed menu word" />
+    <MESSAGE value="few changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="few changes" />
   </component>
 </project>
